@@ -1,0 +1,16 @@
+#Requirements for robot tests to run
+lxml
+robotframework
+robotframework-pabot
+robotframework-seleniumlibrary
+psycopg2-binary
+psycopg2
+robotframework-databaselibrary
+paramiko
+pyautogui
+pywinauto
+boto3
+pyperclip
+jsonpath
+minio
+robotframework-allurereport
