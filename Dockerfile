@@ -8,7 +8,7 @@ RUN apk --no-cache update && apk add --no-cache --virtual .build-deps \
 		postgresql-dev  \
 		libffi-dev 	\
 		py-pip jpeg-dev zlib-dev \
-	&& pip install --upgrade pip  \
-	&& pip install -r /tmp/requirements.txt
+	&& pip install --upgrade pip  
+RUN pip install -r /tmp/requirements.txt
 
 ENV LIBRARY_PATH=/lib:/usr/lib
