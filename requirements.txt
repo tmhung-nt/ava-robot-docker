@@ -8,7 +8,6 @@ psycopg2
 robotframework-databaselibrary
 paramiko
 pyautogui
-pywinauto
 boto3
 pyperclip
 jsonpath
