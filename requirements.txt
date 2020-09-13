@@ -15,3 +15,7 @@ jsonpath
 minio
 robotframework-allurereport
 allure_robotframework
+robotframework-faker
+webdrivermanager
+RESTinstance
+robotframework-datadriver
